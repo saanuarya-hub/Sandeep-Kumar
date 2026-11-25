@@ -1,0 +1,6 @@
+{
+  "name": "PIHU – Pan India Helping Unit",
+  "description": "Integrated rural development NGO platform, multi-vendor rural marketplace, Village Mother Group (VMG), OVOP, and Beej Bhandaran management system for Hazaribagh, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1437 @@
+MASTER SOFTWARE DEVELOPMENT REQUIREMENT & IMPLEMENTATION PROMPT
+
+PROJECT NAME
+
+PIHU – PAN INDIA HELPING UNIT
+
+Tagline: Empowering Villages. Strengthening Women. Building Sustainable Rural Economies.
+
+Initial Project Location: Hazaribagh, Jharkhand, India
+Contact Number: +91 9308686273
+Email: panindiahelpingunit@gmail.com
+
+Official Logo: Use the PIHU logo supplied by the project owner.
+
+---
+
+PART A – PROJECT INTRODUCTION AND VISION
+
+1. Project Overview
+
+Develop a comprehensive, integrated, scalable and secure digital platform for PIHU (Pan India Helping Unit), combining an institutional NGO website, customer applications, seller applications, an e-commerce marketplace, an NGO management system and a centralised administrative platform.
+
+PIHU is a proposed integrated rural development initiative designed to connect rural communities, Self-Help Groups (SHGs), women entrepreneurs, farmers, manufacturers, sellers, volunteers, beneficiaries, consumers and institutional development partners.
+
+The digital platform should support the development of a coordinated rural economic ecosystem through:
+
+1. Rural entrepreneurship development.
+2. Women and SHG empowerment.
+3. Village Mother Group (VMG) formation and management.
+4. One Village One Product (OVOP) development.
+5. Rural manufacturing and micro-enterprises.
+6. Agriculture and raw-material banking.
+7. Seed Bank and Beej Bhandaran initiatives.
+8. Rural marketplace and multi-vendor e-commerce.
+9. Product quality awareness and traceability.
+10. Rural logistics and supply-chain management.
+11. Community welfare and education support.
+12. Government scheme awareness and facilitation.
+13. Institutional, NGO and CSR partnerships.
+
+The platform should be designed for an initial pilot in Hazaribagh district, Jharkhand, with the technical capacity to expand to other districts and states.
+
+2. Main Development Objective
+
+Create one integrated PIHU digital ecosystem with separate interfaces for the public, customers, sellers, volunteers, members, NGO administrators and super administrators.
+
+The platform should connect community development activities with digital commerce while maintaining proper financial records, data security, transparency, accountability and operational control.
+
+The platform must be scalable and modular so that new districts, villages, SHGs, products, sellers, users and development programmes can be added in the future.
+
+---
+
+PART B – PROJECT DELIVERABLES
+
+The project will include the following 23 deliverables:
+
+1. NGO Website.
+2. Android Customer / NGO Mobile Application.
+3. iOS Customer / NGO Mobile Application.
+4. Android Seller Mobile Application.
+5. iOS Seller Mobile Application.
+6. Super Admin Web Panel.
+7. Seller Web Management Panel.
+8. NGO Forms and Application Management.
+9. Volunteer and Member Management.
+10. NGO Activities and Projects Management.
+11. Donation and Contribution Management.
+12. Multi-Vendor E-Commerce Marketplace.
+13. Product and Inventory Management.
+14. Order Management System.
+15. Online Payment Gateway Integration.
+16. Shiprocket Shipping Integration.
+17. Customer and Seller Notification System.
+18. Reports and Analytics.
+19. Backend API Development.
+20. Database Setup.
+21. Deployment and Configuration.
+22. Complete Source Code.
+23. Basic Technical Documentation.
+
+All deliverables must be developed as connected components of one centralised platform.
+
+---
+
+PART C – NGO WEBSITE
+
+MODULE 1: NGO WEBSITE AND CONTENT MANAGEMENT
+
+Develop a professional, responsive and mobile-friendly institutional website.
+
+Website Pages and Features
+
+- NGO homepage.
+- About Us.
+- Vision and Mission.
+- NGO objectives.
+- Organisation history.
+- Management team information.
+- Trustees and committee members, when legally constituted.
+- NGO projects and initiatives.
+- Ongoing activities.
+- Completed activities.
+- Upcoming events.
+- News and announcements.
+- Photo gallery.
+- Video gallery.
+- Success stories.
+- Social impact information.
+- Contact Us page.
+- Contact inquiry form.
+- Social media integration.
+- Privacy Policy.
+- Terms and Conditions.
+- FAQ section.
+- Dynamic homepage banners.
+- Search engine optimisation settings.
+- Admin-managed website content.
+
+PIHU-Specific Website Sections
+
+- Integrated Rural Development Model.
+- Women and SHG Entrepreneurship.
+- Village Mother Group (VMG).
+- One Village One Product.
+- Rural Manufacturing and Enterprise Development.
+- Agriculture and Raw Material Banking.
+- Seed Bank and Beej Bhandaran.
+- Rural Marketplace.
+- Logistics and Market Connectivity.
+- Product Quality and Consumer Awareness.
+- Education and Social Welfare.
+- Government Scheme Awareness and Facilitation.
+- Institutional and CSR Partnerships.
+
+The website must support English and Hindi languages.
+
+---
+
+MODULE 2: NGO ACTIVITIES AND PROJECT MANAGEMENT
+
+Provide a complete project management module.
+
+Features:
+
+- Add NGO projects.
+- Edit project information.
+- Project title and description.
+- Project photographs.
+- Project category.
+- Project start and end dates.
+- Project location.
+- Project status.
+- Project objectives.
+- Project updates.
+- Ongoing project listing.
+- Completed project listing.
+- Project participation forms.
+- Project inquiry management.
+- Project information display.
+- Admin-controlled project visibility.
+
+Allow PIHU administrators to create separate project records for each village, block, district or programme.
+
+---
+
+MODULE 3: NGO EVENTS AND ANNOUNCEMENTS
+
+Features:
+
+- Create NGO events.
+- Event title and description.
+- Event date and time.
+- Event location.
+- Event photographs.
+- Upcoming events.
+- Past events.
+- Event registration forms.
+- Event participant information.
+- Event announcements.
+- News updates.
+- Event details page.
+- Admin event management.
+
+---
+
+MODULE 4: NGO FORMS AND APPLICATION MANAGEMENT
+
+Develop a dynamic online form builder.
+
+Forms Included
+
+- NGO Membership Registration Form.
+- Volunteer Registration Form.
+- Donation / Contribution Form.
+- Beneficiary Application Form.
+- Event Registration Form.
+- Project Participation Form.
+- General Inquiry Form.
+- Contact Form.
+- Seller Registration Form.
+- Custom NGO Application Forms.
+- SHG Registration Form.
+- Village Mother Group Formation Form.
+- Rural Entrepreneur Registration Form.
+
+Form Builder Features
+
+- Create new forms.
+- Edit existing forms.
+- Add and remove fields.
+- Text input fields.
+- Dropdown selections.
+- Checkbox fields.
+- Radio button fields.
+- Date selection fields.
+- File upload fields.
+- Required and optional fields.
+- Form submission.
+- Submission confirmation.
+- Store submitted information.
+- View submitted applications.
+- Search form submissions.
+- Filter submissions.
+- Update application status.
+- Approve or reject applications.
+- Download submitted information.
+- Export form data to Excel / CSV.
+- Admin access to submission records.
+- Form activation and deactivation.
+
+Provide unique application reference numbers and application status tracking.
+
+---
+
+MODULE 5: NGO MEMBERSHIP MANAGEMENT
+
+Features:
+
+- Member registration.
+- Membership application form.
+- Member profile creation.
+- Member contact information.
+- Membership application submission.
+- Member verification status.
+- Admin approval process.
+- Member database.
+- Membership status management.
+- Member search.
+- Member information updates.
+- Membership activity records.
+- Membership reports.
+
+PIHU Member ID System
+
+- Generate a unique PIHU Member ID after approval.
+- Generate a digital membership card.
+- Add member photograph where appropriate.
+- Display member name and Member ID.
+- Include QR code for identification.
+- Provide downloadable and printable ID cards.
+- Allow authorised administrators to update membership status.
+- Maintain approval and renewal history.
+
+A unique application reference may be generated immediately upon submission. Official PIHU Member ID issuance should occur only after authorised approval.
+
+---
+
+MODULE 6: VOLUNTEER MANAGEMENT
+
+Features:
+
+- Volunteer registration form.
+- Volunteer personal information.
+- Volunteer contact details.
+- Volunteer interests and skills.
+- Volunteer application submission.
+- Volunteer database.
+- Volunteer approval and rejection.
+- Volunteer status management.
+- Event participation registration.
+- Project participation information.
+- Volunteer activity records.
+- Admin volunteer management.
+
+---
+
+MODULE 7: DONATION AND CONTRIBUTION MANAGEMENT
+
+Features:
+
+- Donation information page.
+- Donation contribution form.
+- Donor details collection.
+- Donation amount selection.
+- Custom donation amount.
+- Online donation payment option.
+- Donation payment confirmation.
+- Donor database.
+- Donation transaction records.
+- Donation history.
+- Donation reports.
+- Donation receipt generation.
+- Admin donation management.
+
+Donation receipts must reflect the organisation's valid legal identity and tax details.
+
+Do not advertise tax exemptions or issue tax-exemption receipts unless PIHU has obtained the applicable registrations and approvals, such as valid 80G approval where relevant.
+
+Donation collection must be activated only after the required legal and banking arrangements are completed.
+
+---
+
+PART D – CUSTOMER MOBILE APPLICATIONS
+
+MODULE 8: CUSTOMER REGISTRATION AND LOGIN
+
+Develop Android and iOS customer / NGO applications.
+
+Features:
+
+- User registration.
+- Mobile number login.
+- Mobile OTP verification.
+- Email login.
+- Email OTP verification.
+- Secure authentication.
+- Forgot password.
+- Customer profile creation.
+- Profile information management.
+- Customer account settings.
+- Account logout.
+
+Support secure account recovery and appropriate privacy controls.
+
+---
+
+MODULE 9: CUSTOMER MOBILE APP HOMEPAGE
+
+Features:
+
+- PIHU branding and homepage.
+- NGO activities section.
+- NGO projects section.
+- Upcoming events.
+- NGO announcements.
+- Membership registration access.
+- Volunteer registration access.
+- Donation section.
+- NGO application forms.
+- E-commerce marketplace.
+- Featured products.
+- Product categories.
+- Promotional banners.
+- Popular products.
+- Customer profile.
+- Shopping cart.
+- Order tracking.
+- Notifications.
+
+The customer application should combine NGO participation and marketplace functions without confusing commercial transactions with charitable contributions.
+
+---
+
+MODULE 10: E-COMMERCE PRODUCT CATEGORIES
+
+Features:
+
+- Product category listing.
+- Subcategory listing.
+- Category images.
+- Category descriptions.
+- Multiple product categories.
+- Featured categories.
+- Product filtering.
+- Category-wise product browsing.
+- Admin-controlled product categories.
+
+Suggested PIHU categories:
+
+1. Food Processing Products.
+2. Edible Oils.
+3. Flour and Grain Products.
+4. Spices and Masala.
+5. Agricultural Products.
+6. Seeds and Farming Inputs.
+7. Handicrafts.
+8. Household Products.
+9. Rural Manufacturing Products.
+10. SHG-Made Products.
+11. Local Village Products.
+12. Other Approved Product Categories.
+
+---
+
+MODULE 11: PRODUCT LISTING AND DETAILS
+
+Features:
+
+- Product name.
+- Product description.
+- Product photographs.
+- Multiple product images.
+- Product price.
+- Discounted price.
+- Product category.
+- Product brand.
+- Product availability.
+- Product stock status.
+- Product variants.
+- Product specifications.
+- Seller information.
+- Product ratings.
+- Customer reviews.
+- Related products.
+- Add to Cart.
+- Buy Now.
+- Wishlist functionality.
+- Product sharing.
+
+For applicable food products, display relevant licence details, ingredient information, quantity, manufacturing date, expiry or best-before date, MRP and other legally required declarations.
+
+---
+
+MODULE 12: PRODUCT SEARCH AND FILTERS
+
+Features:
+
+- Search products by name.
+- Search by category.
+- Search by subcategory.
+- Filter by price.
+- Filter by product availability.
+- Sort by price.
+- Sort by popularity.
+- Sort by recently added.
+- Product search results.
+- Clear search filters.
+
+---
+
+MODULE 13: SHOPPING CART
+
+Features:
+
+- Add products to cart.
+- View cart items.
+- Update product quantity.
+- Remove products.
+- Product subtotal.
+- Discount calculation.
+- Delivery charges.
+- Tax calculation.
+- Final payable amount.
+- Proceed to checkout.
+
+The platform must calculate taxes and delivery charges using configured rules, not arbitrary fixed values.
+
+---
+
+MODULE 14: CUSTOMER CHECKOUT AND PAYMENTS
+
+Features:
+
+- Customer address management.
+- Add delivery address.
+- Edit delivery address.
+- Select delivery address.
+- Order summary.
+- Product quantity confirmation.
+- Shipping charge calculation.
+- Online payment gateway.
+- Payment success confirmation.
+- Payment failure handling.
+- Order confirmation.
+- Generate order ID.
+- Payment transaction details.
+- Cash on Delivery, where supported.
+- Order invoice.
+
+Integrate a suitable payment gateway subject to merchant approval and technical compatibility.
+
+Use secure payment processing, verified payment callbacks and transaction reconciliation.
+
+Do not store card numbers, CVV or sensitive payment credentials on the PIHU database.
+
+---
+
+MODULE 15: CUSTOMER ORDER MANAGEMENT
+
+Features:
+
+- View current orders.
+- View previous orders.
+- Order details.
+- Order confirmation status.
+- Processing status.
+- Shipment status.
+- Shipped status.
+- Out for Delivery status.
+- Delivered status.
+- Cancelled order status.
+- Order tracking.
+- Shipment tracking number.
+- Courier information.
+- Order invoice.
+- Reorder products.
+- Order status notifications.
+
+---
+
+MODULE 16: CUSTOMER PROFILE MANAGEMENT
+
+Features:
+
+- View customer profile.
+- Edit customer information.
+- Manage mobile number.
+- Manage email address.
+- Manage delivery addresses.
+- View order history.
+- View donation history.
+- View NGO form submissions.
+- View membership information.
+- Wishlist management.
+- Notification settings.
+- Account logout.
+
+---
+
+PART E – SELLER MOBILE APPLICATIONS
+
+Develop separate Android and iOS seller applications.
+
+MODULE 17: SELLER REGISTRATION AND LOGIN
+
+Features:
+
+- Seller registration.
+- Seller login.
+- Seller profile creation.
+- Seller contact details.
+- Business information.
+- Business name.
+- Business address.
+- GST details, where applicable.
+- Business document upload.
+- Seller application submission.
+- Seller approval status.
+- Seller account management.
+- Secure logout.
+
+Provide verification workflows for individual entrepreneurs, SHGs, producer groups, registered businesses and other permitted seller categories.
+
+---
+
+MODULE 18: SELLER DASHBOARD
+
+Features:
+
+- Seller dashboard.
+- Total products.
+- Active products.
+- Out-of-stock products.
+- Total orders.
+- Pending orders.
+- Completed orders.
+- Cancelled orders.
+- Sales summary.
+- Seller earnings.
+- Pending settlements.
+- Product performance overview.
+- Order notifications.
+
+---
+
+MODULE 19: SELLER PRODUCT MANAGEMENT
+
+Features:
+
+- Add new products.
+- Edit products.
+- Delete products.
+- Upload product images.
+- Manage product descriptions.
+- Select product category.
+- Set product prices.
+- Set discount prices.
+- Manage stock quantity.
+- Manage product variations.
+- Set product availability.
+- Activate or deactivate products.
+- Product approval status.
+- Product inventory updates.
+- Low-stock alerts.
+
+All products should pass the configured admin approval and compliance checks before publication.
+
+---
+
+MODULE 20: SELLER ORDER MANAGEMENT
+
+Features:
+
+- View incoming orders.
+- View pending orders.
+- View confirmed orders.
+- View processing orders.
+- View shipped orders.
+- View delivered orders.
+- View cancelled orders.
+- View customer order details.
+- View delivery information.
+- Manage order processing.
+- Update order status.
+- Generate order invoice.
+- Shipment management.
+- View shipment tracking information.
+
+---
+
+MODULE 21: SELLER EARNINGS AND WITHDRAWALS
+
+Features:
+
+- Seller earnings dashboard.
+- Total sales amount.
+- Seller commission information.
+- Platform commission deduction.
+- Available balance.
+- Pending settlement amount.
+- Transaction history.
+- Withdrawal request.
+- Withdrawal status.
+- Bank account details.
+- Admin-managed payout approval.
+- Seller financial reports.
+
+Maintain a transparent ledger for orders, refunds, commissions, adjustments and settlements.
+
+Automated split settlements through a payment provider are excluded unless separately agreed and technically supported.
+
+---
+
+MODULE 22: SELLER SHOP MANAGEMENT
+
+Features:
+
+- Seller shop profile.
+- Shop name.
+- Shop logo.
+- Shop banner.
+- Business description.
+- Shop address.
+- Contact information.
+- Manage shop details.
+- Product listing management.
+- Seller notification management.
+- Seller account settings.
+
+---
+
+PART F – SHIPROCKET SHIPPING INTEGRATION
+
+MODULE 23: SHIPPING AND LOGISTICS MANAGEMENT
+
+Integrate Shiprocket for shipment creation and tracking of eligible physical product orders.
+
+Shiprocket Features
+
+- Shiprocket account integration.
+- API authentication.
+- E-commerce order synchronisation.
+- Create shipment orders.
+- Customer delivery address transfer.
+- Product details transfer.
+- Package weight information.
+- Courier serviceability checking.
+- Courier selection where available.
+- AWB generation.
+- Shipping label generation.
+- Shipment tracking number.
+- Pickup request creation.
+- Pickup address configuration.
+- Shipment status synchronisation.
+- Delivery status updates.
+- Customer tracking information.
+- Seller shipment information.
+- Admin shipment dashboard.
+
+Shipping Workflow
+
+1. Customer places an order.
+2. Seller or administrator confirms the order.
+3. Shipment is created through Shiprocket.
+4. Courier is assigned.
+5. AWB and shipping label are generated.
+6. Pickup request is submitted.
+7. Courier collects the shipment.
+8. Customer tracks the order.
+9. Delivery status is updated in the platform.
+
+Integration requires an active client-owned Shiprocket account, approved API access and sufficient account balance.
+
+Courier charges, COD fees, return shipping costs and other shipping expenses are operational costs, not included in software development unless specifically agreed.
+
+---
+
+PART G – SUPER ADMIN WEB PANEL
+
+MODULE 24: ADMIN DASHBOARD
+
+Develop a centralised secure administration dashboard.
+
+Features:
+
+- Secure admin login.
+- Centralised management dashboard.
+- Total registered users.
+- Total NGO members.
+- Total volunteers.
+- Total form submissions.
+- Total donations.
+- Total sellers.
+- Total products.
+- Total orders.
+- Pending orders.
+- Completed orders.
+- Revenue statistics.
+- Sales reports.
+- Commission reports.
+- Shipment overview.
+- Recent activities.
+
+Provide filterable dashboard information by date, district, block, village, seller and project.
+
+---
+
+MODULE 25: NGO MANAGEMENT
+
+Features:
+
+- NGO profile management.
+- NGO website content management.
+- NGO project management.
+- NGO activity management.
+- Event management.
+- Member management.
+- Volunteer management.
+- Beneficiary application management.
+- NGO form management.
+- Donation records.
+- News and announcements.
+- Photo and video gallery management.
+- Contact inquiry management.
+- NGO reports.
+
+---
+
+MODULE 26: SELLER MANAGEMENT
+
+Features:
+
+- View all registered sellers.
+- Seller registration applications.
+- Approve sellers.
+- Reject sellers.
+- Seller business information.
+- Seller GST details.
+- Seller documents.
+- Activate or deactivate sellers.
+- Seller product monitoring.
+- Seller order monitoring.
+- Seller commission configuration.
+- Seller earnings.
+- Seller withdrawal requests.
+- Seller settlement management.
+
+---
+
+MODULE 27: PRODUCT MANAGEMENT
+
+Features:
+
+- Product category management.
+- Subcategory management.
+- Add products.
+- Edit products.
+- Delete products.
+- Manage product images.
+- Product approval management.
+- Product pricing.
+- Product discounts.
+- Product stock management.
+- Featured products.
+- Product availability.
+- Product reviews.
+- Product reports.
+
+---
+
+MODULE 28: ORDER MANAGEMENT
+
+Features:
+
+- View all customer orders.
+- View seller-wise orders.
+- Order search.
+- Order details.
+- Order status management.
+- Payment status.
+- Shipment status.
+- Order invoices.
+- Cancelled orders.
+- Delivery information.
+- Order reports.
+- Order transaction history.
+
+---
+
+MODULE 29: PAYMENT AND COMMISSION MANAGEMENT
+
+Features:
+
+- Payment gateway configuration.
+- Customer payment tracking.
+- Donation payment tracking.
+- E-commerce transaction history.
+- Seller commission management.
+- Platform commission configuration.
+- Seller earnings.
+- Seller withdrawal requests.
+- Settlement management.
+- Payment reports.
+
+Maintain separate financial records for donations, project contributions, marketplace sales, refunds, commissions and seller payouts.
+
+---
+
+MODULE 30: SHIPROCKET ADMIN MANAGEMENT
+
+Features:
+
+- Shiprocket API configuration.
+- Shipping account settings.
+- Shipment creation.
+- Shipment order details.
+- Shipping label generation.
+- AWB tracking.
+- Pickup requests.
+- Shipping status monitoring.
+- Seller shipment information.
+- Courier tracking updates.
+- Shipping reports.
+
+---
+
+MODULE 31: FORM SUBMISSION MANAGEMENT
+
+Features:
+
+- View submitted NGO forms.
+- Form-wise submission records.
+- Member applications.
+- Volunteer applications.
+- Beneficiary applications.
+- Event registrations.
+- Donation inquiries.
+- Seller registration forms.
+- Form approval and rejection.
+- Application status updates.
+- Submitted document access.
+- Data export.
+- Application reports.
+
+---
+
+MODULE 32: CONTENT MANAGEMENT
+
+Features:
+
+- Homepage banner management.
+- NGO page content.
+- About Us page.
+- Mission and Vision page.
+- Activities and projects.
+- News and announcements.
+- Events.
+- Photo gallery.
+- Video gallery.
+- FAQs.
+- Contact details.
+- Terms and Conditions.
+- Privacy Policy.
+- Website SEO settings.
+
+---
+
+MODULE 33: NOTIFICATIONS AND REPORTS
+
+Notification Features
+
+- Customer notifications.
+- Seller notifications.
+- Order notifications.
+- Payment notifications.
+- Shipment notifications.
+- NGO announcements.
+- Membership notifications.
+- Form submission notifications.
+
+Support appropriate in-app notifications, email, push notifications and SMS/OTP through configured service providers.
+
+Reporting Features
+
+- Sales reports.
+- Seller reports.
+- Donation reports.
+- Member reports.
+- Volunteer reports.
+- Project reports.
+- Order reports.
+- Payment reports.
+- Shipment reports.
+- Application reports.
+- Product and inventory reports.
+
+Provide date-wise, category-wise and location-wise filtering, with Excel and CSV exports.
+
+---
+
+MODULE 34: EMPLOYEE AND ADMIN ACCESS MANAGEMENT
+
+Features:
+
+- Super Admin account.
+- Employee account creation.
+- Role-based permissions.
+- NGO management permissions.
+- Seller management permissions.
+- Product management permissions.
+- Order management permissions.
+- Form management permissions.
+- Report access controls.
+- Admin account settings.
+
+Suggested access roles:
+
+1. Super Administrator.
+2. System Administrator.
+3. NGO Administrator.
+4. District Coordinator.
+5. Block Coordinator.
+6. Panchayat / Village Coordinator.
+7. VMG Coordinator.
+8. Finance Administrator.
+9. Seller Administrator.
+10. Customer Support Administrator.
+11. Registered Member.
+12. Volunteer.
+13. Seller / Entrepreneur.
+
+Provide role-based access controls, approval workflows and activity logs.
+
+---
+
+PART H – ADDITIONAL PIHU-SPECIFIC RURAL DEVELOPMENT MODULES
+
+The following modules extend the standard NGO and e-commerce requirements to support PIHU's distinctive rural development concept.
+
+35. VILLAGE MOTHER GROUP (VMG) MANAGEMENT
+
+Create a dedicated Village Mother Group management system.
+
+Features:
+
+- VMG registration and formation.
+- Unique VMG ID.
+- Village and Panchayat mapping.
+- Group member enrolment.
+- Group leadership records.
+- President and Secretary information.
+- Treasurer information.
+- Production Coordinator.
+- Marketing Coordinator.
+- Logistics Coordinator.
+- Meeting schedule.
+- Meeting attendance.
+- Meeting minutes.
+- Resolutions and decisions.
+- Group activities.
+- Group performance reports.
+- Member participation records.
+- Group document storage.
+
+All VMG structures and roles are proposed PIHU arrangements and should not be represented as government-recognised structures without approval.
+
+36. ONE VILLAGE ONE PRODUCT (OVOP) MANAGEMENT
+
+Create a village-level product and enterprise development module.
+
+Features:
+
+- Village product identification.
+- Product feasibility records.
+- Local resource assessment.
+- Product demand assessment.
+- Producer and SHG registration.
+- Manufacturing unit information.
+- Production capacity.
+- Raw-material requirements.
+- Product costing.
+- Quality requirements.
+- Packaging information.
+- Product approval.
+- Village-wise product catalogue.
+- District-wise product catalogue.
+- Market linkage information.
+- Product performance reports.
+
+The platform should support the PIHU concept of one product or product category being developed through a coordinated village or cluster production network to serve wider markets.
+
+37. AGRICULTURE AND RAW MATERIAL BANKING
+
+Features:
+
+- Farmer registration.
+- Agricultural stakeholder records.
+- Seed Bank information.
+- Beej Bhandaran records.
+- Raw-material bank registration.
+- Village-level storage information.
+- Raw-material availability.
+- Stock entry and exit.
+- Inventory records.
+- Supplier information.
+- Purchase and distribution records.
+- Storage capacity.
+- Agricultural product listings.
+- Farmer and entrepreneur linkages.
+- Raw-material demand forecasting.
+- Stock alerts.
+
+38. RURAL ENTREPRENEURSHIP AND MANUFACTURING
+
+Features:
+
+- Rural entrepreneur registration.
+- SHG enterprise registration.
+- Manufacturing unit records.
+- Product category selection.
+- Machine and equipment information.
+- Production capacity.
+- Raw-material requirements.
+- Manufacturing activity records.
+- Product costing and pricing.
+- Packaging and labelling records.
+- Quality compliance documentation.
+- Business development support.
+- Market linkage.
+- Enterprise progress reports.
+
+39. PRODUCT QUALITY AND TRACEABILITY
+
+Develop a product batch identification and QR-code feature.
+
+Features:
+
+- Product batch number.
+- Manufacturer / seller identity.
+- Production date.
+- Applicable expiry or best-before date.
+- Product specifications.
+- Applicable licence details.
+- Batch information.
+- QR-code generation.
+- QR-code product information page.
+- Customer product enquiry.
+
+QR codes must display verified information only. They must not be presented as proof of purity, laboratory testing or government certification.
+
+40. RURAL LOGISTICS AND DISTRIBUTION
+
+Features:
+
+- Village-wise delivery locations.
+- Seller pickup addresses.
+- Product collection points.
+- Delivery route records.
+- Order consolidation.
+- Delivery assignment.
+- Logistics cost records.
+- Shipment tracking.
+- Delivery confirmation.
+- Collection and distribution reports.
+
+The platform may support future integration with local transport providers and e-rickshaw-based distribution systems.
+
+---
+
+PART I – TECHNICAL ARCHITECTURE AND DEVELOPMENT
+
+41. Platform Architecture
+
+Develop a unified system using:
+
+- Public NGO website.
+- Customer Android application.
+- Customer iOS application.
+- Seller Android application.
+- Seller iOS application.
+- Super Admin web panel.
+- Seller web management panel.
+- Central backend API.
+- Secure database.
+- Cloud-based file storage.
+- Payment gateway integration.
+- Shiprocket integration.
+- Notification services.
+
+All interfaces must communicate with the same central backend and database using secure APIs.
+
+42. Technology Recommendations
+
+The development team may propose a suitable modern technology stack.
+
+Preferred architecture:
+
+- Responsive frontend using React / Next.js or equivalent.
+- Mobile applications using Flutter or React Native.
+- Backend using Node.js / NestJS, Laravel or an equivalent secure framework.
+- Relational database using PostgreSQL or MySQL.
+- Secure cloud storage for images and documents.
+- REST API or secure equivalent.
+- Role-based authentication.
+- Cloud deployment with backup and monitoring.
+
+The selected technology stack must support Android, iOS, web browsers and future expansion.
+
+43. Database Requirements
+
+Design a structured database covering:
+
+- Users.
+- Customer profiles.
+- NGO members.
+- Volunteers.
+- Beneficiaries.
+- Sellers.
+- Seller businesses.
+- Village Mother Groups.
+- Group memberships.
+- Projects.
+- Activities.
+- Events.
+- Applications.
+- Form submissions.
+- Donations.
+- Products.
+- Categories.
+- Inventory.
+- Orders.
+- Order items.
+- Payments.
+- Refunds.
+- Commissions.
+- Seller settlements.
+- Shipments.
+- Notifications.
+- Reviews.
+- Administrative users.
+- Roles and permissions.
+- Audit logs.
+
+Use appropriate database relationships, indexes, transaction handling and access controls.
+
+44. Security and Privacy
+
+Implement:
+
+- Secure authentication.
+- OTP verification.
+- Password hashing.
+- Role-based access control.
+- Secure API authentication.
+- HTTPS.
+- Encrypted sensitive information.
+- Database backups.
+- File upload validation.
+- Rate limiting.
+- Protection against common web vulnerabilities.
+- Audit logs.
+- Account recovery.
+- Consent management.
+- Data retention and deletion procedures.
+- Privacy policy and terms of service.
+
+Collect only necessary personal information.
+
+Do not make Aadhaar compulsory by default. Any collection of sensitive identity or financial information must have a lawful purpose, appropriate consent, restricted access and suitable security safeguards.
+
+---
+
+PART J – PAYMENT, COMMERCE AND FINANCIAL CONTROLS
+
+45. Payment Gateway
+
+Integrate a suitable payment gateway, subject to provider approval.
+
+Required functionality:
+
+- Customer payments.
+- Order payments.
+- Donation payments, when legally permitted.
+- Payment success and failure handling.
+- Transaction ID.
+- Payment reconciliation.
+- Refund workflow.
+- Payment reports.
+- Secure payment callback verification.
+
+Keep donation and e-commerce transactions separate.
+
+The platform must support transparent accounting and avoid unauthorised handling of customer or seller funds.
+
+46. Multi-Vendor Marketplace
+
+Implement:
+
+- Seller onboarding.
+- Seller approval.
+- Product listing approval.
+- Seller-wise inventory.
+- Seller-wise orders.
+- Platform commission.
+- Seller earnings.
+- Refunds.
+- Settlement records.
+- Seller withdrawal requests.
+- Financial reconciliation.
+
+Any automated split-payment or settlement system must be separately assessed and agreed with the payment provider.
+
+---
+
+PART K – DEPLOYMENT AND FINAL DELIVERABLES
+
+47. Deployment
+
+Provide:
+
+- Production-ready website.
+- Android application build.
+- iOS application build.
+- Admin web panel.
+- Seller web panel.
+- Backend API.
+- Database deployment.
+- SSL configuration.
+- Domain configuration.
+- Cloud hosting configuration.
+- Backup configuration.
+- Payment gateway setup.
+- Shiprocket setup.
+- Push notification setup.
+- Testing and launch support.
+
+48. Source Code and Documentation
+
+The project owner must receive:
+
+1. Complete website source code.
+2. Android customer application source code.
+3. iOS customer application source code.
+4. Android seller application source code.
+5. iOS seller application source code.
+6. Super Admin source code.
+7. Seller panel source code.
+8. Backend source code.
+9. Database schema and migration files.
+10. API documentation.
+11. Deployment instructions.
+12. Basic technical documentation.
+13. Administrator user guide.
+14. Application user guide.
+15. Database backup and recovery instructions.
+16. Third-party integration documentation.
+
+All intellectual property, source code ownership, third-party licences and handover terms must be agreed in writing.
+
+---
+
+PART L – PROJECT DEVELOPMENT PHASES
+
+Phase 1: Planning and UI/UX
+
+- Requirement finalisation.
+- System architecture.
+- Database design.
+- Website design.
+- Application design.
+- Admin panel design.
+- Approval of prototype.
+
+Phase 2: NGO Website and Core Management
+
+- Public website.
+- Content management.
+- NGO projects.
+- Activities.
+- Events.
+- Membership.
+- Volunteer registration.
+- Forms management.
+
+Phase 3: Customer Applications
+
+- Android customer app.
+- iOS customer app.
+- User registration.
+- Customer profiles.
+- NGO activities.
+- Membership and volunteer access.
+- Notifications.
+
+Phase 4: Seller Applications and Marketplace
+
+- Seller registration.
+- Seller dashboard.
+- Product management.
+- Inventory management.
+- Multi-vendor marketplace.
+- Shopping cart.
+- Checkout.
+- Order management.
+
+Phase 5: Payments and Logistics
+
+- Payment gateway.
+- Donation payment workflow, subject to legal readiness.
+- Seller commission management.
+- Settlement records.
+- Shiprocket integration.
+- Order tracking.
+
+Phase 6: PIHU Rural Development Modules
+
+- Village Mother Group management.
+- One Village One Product.
+- Rural entrepreneurship.
+- Agriculture and raw-material banking.
+- Seed Bank.
+- Product traceability.
+- Rural logistics.
+
+Phase 7: Testing and Deployment
+
+- Functional testing.
+- Security testing.
+- Mobile device testing.
+- Payment testing.
+- Shipping integration testing.
+- User acceptance testing.
+- Production deployment.
+- Source code handover.
+- Documentation and training.
+
+---
+
+PART M – ACCEPTANCE CRITERIA
+
+The project will be considered technically complete only when:
+
+1. All agreed website pages are operational.
+2. Customer Android and iOS applications are built and tested.
+3. Seller Android and iOS applications are built and tested.
+4. Super Admin and Seller panels are operational.
+5. NGO forms and application management work correctly.
+6. Member and volunteer records can be managed.
+7. VMG registration and management work.
+8. Product and inventory management work.
+9. Multi-vendor orders can be processed.
+10. Payment transactions can be verified.
+11. Shiprocket shipment creation and tracking work with valid credentials.
+12. Reports and Excel exports work.
+13. Role-based permissions are tested.
+14. Backup and recovery procedures are documented.
+15. Source code and technical documentation are handed over.
+
+Require a staging environment, test accounts, test payment mode and documented user acceptance testing before production launch.
+
+---
+
+PART N – LEGAL AND ORGANISATIONAL STATUS
+
+PIHU is currently at the concept-development stage and has not yet been registered.
+
+The development team must therefore:
+
+- Not represent PIHU as an already registered NGO or Section 8 company.
+- Not invent registration numbers, trustees, board members, government approvals or CSR credentials.
+- Keep legal identity fields configurable for completion after registration.
+- Keep donation collection disabled until legal and banking readiness is confirmed.
+- Keep tax-exemption claims disabled until valid approvals exist.
+- Make seller and marketplace operations subject to applicable business, consumer, tax and e-commerce requirements.
+- Ensure food products comply with applicable FSSAI requirements.
+- Ensure applicable data protection and privacy requirements are met.
+- Make government scheme information subject to current official eligibility and guidelines.
+- Keep all proposed activities clearly labelled as proposed until implemented.
+
+---
+
+FINAL DEVELOPMENT INSTRUCTION
+
+Build PIHU as a professional, secure, scalable and fully integrated rural development and e-commerce digital ecosystem.
+
+The platform must combine:
+
+NGO Website + Customer Applications + Seller Applications + Super Admin Panel + Seller Management Panel + NGO Management + Multi-Vendor E-Commerce + Payment Gateway + Shiprocket + Village Mother Group Management + Rural Entrepreneurship + Agriculture and Raw Material Banking.
+
+The project owner must receive a working demonstration, tested applications, complete source code, deployment configuration and technical documentation.
+
+Do not deliver only static screens or a non-functional visual prototype. Every agreed feature must have a working backend workflow, database connection, validation and appropriate access permissions.
+
+Before starting full development, provide:
+
+1. Complete technical architecture.
+2. UI/UX design and clickable prototype.
+3. Database structure.
+4. Development timeline.
+5. Detailed cost estimate.
+6. Third-party service and subscription cost list.
+7. Module-wise development plan.
+8. Testing and deployment plan.
+
+Final vision: ONE DIGITAL PLATFORM – CONNECTING VILLAGES, PEOPLE, ENTERPRISES, PRODUCTS AND MARKETS.
+
+PIHU – PAN INDIA HELPING UNIT
